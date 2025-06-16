@@ -1,1 +1,1 @@
-# Ajedrez
+# Ajedrez en Java (Proyecto UCI)
